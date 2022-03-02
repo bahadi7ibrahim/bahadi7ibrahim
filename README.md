@@ -11,7 +11,7 @@
   <h4>🖥 &nbsp;Software 🖥 &nbsp; </h4>
   <p> MicrosoftPowerBi / OpenErp / Talend-ETL  </p>
   <h4>🛢 &nbsp;Modélisation & SGBD 🛢 &nbsp; </h4>
-  <p> Uml / Merise / MySQL / MnogoDb </p>
+  <p> Uml / Merise / MySQL / MongoDb </p>
   <h4>⚙️ &nbsp;Devops ⚙️ &nbsp; </h4>
   <p> Git / Github / Gitlab / Selenium / Jenkins / Kubernetes / Docker  </p>
   <h4>🔧 &nbsp;Editeur de Code 🔧 &nbsp; </h4>
