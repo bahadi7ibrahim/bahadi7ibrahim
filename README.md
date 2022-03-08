@@ -1,4 +1,4 @@
-<h2> 👋 Hi, I’m @bahadi7ibrahim <h2>
+<h2> 👋 Hi, I’m @bahadi7ibrahim (ib7) <h2>
 
 <h2> Software Engineer <h2>
 
